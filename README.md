@@ -2,7 +2,7 @@
 * Music
 * Art/Design
 * Film
-* Games
+* Games (and Modding)
 * Mechanical Keyboards
 * Oversized T-Shirts and Skinny Jeans
 * Java
